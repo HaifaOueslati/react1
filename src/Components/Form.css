@@ -1,0 +1,16 @@
+.FORM {
+  background-color: antiquewhite;
+width: 75%;
+padding: 10px;
+border-color: black,8px;
+border-radius: 10px;
+margin: 35px auto;
+}
+.btn {
+  display: block;
+ margin: 0 auto;
+}
+.form-check {
+  display: flex;
+  justify-content: center;
+}
